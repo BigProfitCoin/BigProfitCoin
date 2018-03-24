@@ -1,1 +1,2 @@
 # BigProfitCoin
+A promising coin with a low percentage of inflation is intended to bring a stable profit to its holders. The gradual and steady growth of the BPC is guaranteed by the fact that the POW-proof will continue to 1000 blocks, which means that owners of large capacities can not sell a large number of coins at the start of trading. The creators, in turn, will not be able to sell all the preamps, since most of it goes to the promotion of the project.
