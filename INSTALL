@@ -1,0 +1,9 @@
+Building BigProfitCoin
+
+See doc/readme-qt.rst for instructions on building BigProfitCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BigProfitCoin.
+
+See doc/build-*.txt for instructions on building bigprofitcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of BigProfitCoin.

@@ -1,0 +1,20 @@
+Algorithm Scrypt
+Type PoW/PoS
+Coin name BigProfitCoin
+Symbol BPC
+RPC port 35548
+P2P port 35547
+Block reward 50 coins
+Coin supply 21649485 coins
+Premine amount	649485 coins
+
+PoS percentage	100% per year
+Last PoW block	block 1000
+Min. stake age	1 hours
+Max. stake age	Unlimited
+Coinbase maturity 20 blocks
+Target spacing	60 seconds
+Target timespan	1 block
+Transaction confirmations 10 blocks
+
+A promising coin with a low percentage of inflation is intended to bring a stable profit to its holders. The gradual and steady growth of the BPC is guaranteed by the fact that the POW-proof will continue to 1000 blocks, which means that owners of large capacities can not sell a large number of coins at the start of trading. The creators, in turn, will not be able to sell all the preamps, since most of it goes to the promotion of the project.
